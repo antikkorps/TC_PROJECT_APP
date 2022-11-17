@@ -11,7 +11,6 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     You're logged in!
                 </div>
-                <a href="{{route('formateurs.index')}}">quel con</a>
             </div>
         </div>
     </div>

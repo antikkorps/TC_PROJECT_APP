@@ -16,6 +16,19 @@
                         {{ __('Dashboard') }}
                     </x-nav-link>
                 </div>
+
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-nav-link :href="route('formateurs.index')" :active="request()->routeIs('formateurs.index')">
+                        {{ __('Formateurs') }}
+                    </x-nav-link>
+                </div>
+
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-nav-link :href="route('formateurs.index')" :active="request()->routeIs('formateurs.index')">
+                        {{ __('Comptes-rendus') }}
+                    </x-nav-link>
+                </div>
+
             </div>
 
             <!-- Settings Dropdown -->
