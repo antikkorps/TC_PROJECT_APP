@@ -21,7 +21,7 @@
                                     <div class="font-semibold text-left">Habilitation</div>
                                 </th>
                                 <th class="p-2 whitespace-nowrap">
-                                    <div class="font-semibold text-center">Country</div>
+                                    <div class="font-semibold text-center">Editer</div>
                                 </th>
                             </tr>
                         </thead>
@@ -40,7 +40,7 @@
                                     <div class="text-left font-medium text-green-500">1</div>
                                 </td>
                                 <td class="p-2 whitespace-nowrap">
-                                    <div class="text-lg text-center">🇺🇸</div>
+                                    <div class="text-lg text-center"><button class="mr-2">modifier</button><button>supprimer</button></div>
                                 </td>
                             </tr>
                             <tr>
@@ -57,7 +57,7 @@
                                     <div class="text-left font-medium text-green-500">1</div>
                                 </td>
                                 <td class="p-2 whitespace-nowrap">
-                                    <div class="text-lg text-center">🇩🇪</div>
+                                    <div class="text-lg text-center"><button class="mr-2">modifier</button><button>supprimer</button></div>
                                 </td>
                             </tr>
                             <tr>
@@ -74,7 +74,7 @@
                                     <div class="text-left font-medium text-green-500">2</div>
                                 </td>
                                 <td class="p-2 whitespace-nowrap">
-                                    <div class="text-lg text-center">🇫🇷</div>
+                                    <div class="text-lg text-center"><button class="mr-2">modifier</button><button>supprimer</button></div>
                                 </td>
                             </tr>
                             <tr>
@@ -91,7 +91,7 @@
                                     <div class="text-left font-medium text-green-500">2</div>
                                 </td>
                                 <td class="p-2 whitespace-nowrap">
-                                    <div class="text-lg text-center">🇮🇹</div>
+                                    <div class="text-lg text-center"><button class="mr-2">modifier</button><button>supprimer</button></div>
                                 </td>
                             </tr>
                             <tr>
@@ -108,7 +108,7 @@
                                     <div class="text-left font-medium text-green-500">2</div>
                                 </td>
                                 <td class="p-2 whitespace-nowrap">
-                                    <div class="text-lg text-center">🇬🇧</div>
+                                    <div class="text-lg text-center"><button class="mr-2">modifier</button><button>supprimer</button></div>
                                 </td>
                             </tr>
                         </tbody>
